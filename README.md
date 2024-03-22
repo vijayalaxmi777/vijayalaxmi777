@@ -4,9 +4,7 @@
 #### <div align="center"> Connect with me </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vijayalaxmi-wakode/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Vijaya Wakode | LinkedIn" width="35px"/></a>
-
-<a href="mailto:vijayalaxmiwakode@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Vijaya Wakode | Gmail" width="35px"/></a>
+<p>center</p>p>
  </div>
 
 
