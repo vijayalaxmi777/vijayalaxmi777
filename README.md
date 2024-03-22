@@ -16,13 +16,12 @@
 <br />
 <div align='center'> Happy Learning!🙇‍♀️ </div>
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
-<details>
+<details align='center'>
 <summary> 📊 Public Repositories Insights </summary>
 <hr>
 <p >
 <!--<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10&hide_border=true" alt="GitHub Top-Langs" width="40%"/>
- <&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>
    <a href="https://github.com/vijayalaxmi777/github-readme-streak-stats">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vijaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true" width="48%"/>
   </a>
