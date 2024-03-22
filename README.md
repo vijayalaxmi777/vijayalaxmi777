@@ -14,7 +14,6 @@
   </a>
 </p>
 <br />
-<div align='center'> Happy Learning!🙇‍♀️ </div>
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 <details align='center'>
 <summary> 📊 Public Repositories Insights </summary>
@@ -31,6 +30,7 @@
   <img alt="Vijaya's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=vijayalaxmi777&theme=monokai" />
 </p>
 </details>
+<div align='center'> Happy Learning!🙇‍♀️ </div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
 
