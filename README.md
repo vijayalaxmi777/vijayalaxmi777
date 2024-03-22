@@ -1,4 +1,4 @@
-###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 20px; width:20px" > Hello World!😁 My name is Vijaya.
+###  <div align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 20px; width:20px" > Hello World My name is Vijaya.  </div>
 <div align="center"> I am a data enthusiast!❤️ </div>
 
 ### <div align="center"> Connect with me </div>
