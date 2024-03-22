@@ -17,8 +17,8 @@
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="50%" />
  </p>
  
 <hr>
@@ -27,15 +27,12 @@
 
 <details>
   <summary>🔥 GitHub Streak</summary>
-  <br/>
    <a href="https://github.com/vijayalaxmi777/github-readme-streak-stats">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vijaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true"/>
   </a>
-  <br/>
 </details>                                                                          
 <details>
    <summary>🏆 Github Trophies </summary>
-   <br/>
   <img alt="Vijaya's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=vijayalaxmi777&theme=monokai" />
 </details>  
 
