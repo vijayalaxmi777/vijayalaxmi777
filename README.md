@@ -1,4 +1,4 @@
-###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 20%; width:20%" > Hi there! My name is Vijaya and I am a data enthusiast!
+###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 20px; width:20px" > Hi there! My name is Vijaya and I am a data enthusiast!
 
 ## Connect with me  
 <div align="center">
