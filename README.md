@@ -18,13 +18,13 @@
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
  
 <hr>
 
 ### 📊 My Github stats
-<div>
+<div align='center'>
 <details>
   <summary>🔥 GitHub Streak</summary>
    <a href="https://github.com/vijayalaxmi777/github-readme-streak-stats">
