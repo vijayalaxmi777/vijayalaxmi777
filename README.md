@@ -1,7 +1,7 @@
-### Hi there 👋 My name is Vijaya!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">My name is Vijaya!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" style="width: 100%; height: 50%" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" style="height: 50%" />
 </div>  
 
 ## Connect with me  
