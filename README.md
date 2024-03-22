@@ -3,11 +3,18 @@
 <p align='center'> Currently working on AWS and Python to build data products. </p>
 <div align="center"> 🤝How to reach me: </div>
 
-<p align='center'>
- <a href="https://www.linkedin.com/in/vijayalaxmi-wakode/"> <img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Vijaya Wakode | LinkedIn" width="35px"/></a>
 
-<a href="mailto:vijayalaxmiwakode@gmail.com"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Vijaya Wakode | Gmail" width="35px"/></a>
- </p>
+ <p align="center">
+
+  <a href="https://www.linkedin.com/in/vijayalaxmi-wakode/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:vijayalaxmiwakode@gmail.com">
+     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
+
+
 <div align='center'> Happy Learning!🙇‍♀️ </div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
