@@ -17,14 +17,14 @@
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="50%" />
  </p>
  
 <hr>
 
 ### 📊 My Github stats
-
+<div>
 <details>
   <summary>🔥 GitHub Streak</summary>
    <a href="https://github.com/vijayalaxmi777/github-readme-streak-stats">
@@ -35,7 +35,7 @@
    <summary>🏆 Github Trophies </summary>
   <img alt="Vijaya's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=vijayalaxmi777&theme=monokai" />
 </details>  
-
+</div>
 <div align='center'> Happy Learning!🙇‍♀️ </div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
