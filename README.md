@@ -17,7 +17,7 @@
 <div align='center'> Happy Learning!🙇‍♀️ </div>
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 <details>
-#### 📊 Repositories Insights
+<summary> 📊 Public Repositories Insights </summary>
 <hr>
 <p >
 <!--<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />-->
@@ -27,7 +27,7 @@
   </a>
 </p>
 <p>
-   <summary>🏆 Github Trophies </summary>
+   🏆 Github Trophies 
   <img alt="Vijaya's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=vijayalaxmi777&theme=monokai" />
 </p>
 </details>
