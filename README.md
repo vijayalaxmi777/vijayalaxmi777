@@ -16,26 +16,22 @@
 <br />
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
-<p align="center">
+#### 📊 My Github Insights
+<hr>
+<p >
 <!--<img src="https://github-readme-stats.vercel.app/api?username=vijayalaxmi777&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="50%" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayalaxmi777&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
- 
-<hr>
-
-### 📊 My Github stats
-<div align='center'>
-<details>
+<p>
   <summary>🔥 GitHub Streak</summary>
    <a href="https://github.com/vijayalaxmi777/github-readme-streak-stats">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vijaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true"/>
   </a>
-</details>                                                                          
-<details>
+</p>
+<p>
    <summary>🏆 Github Trophies </summary>
   <img alt="Vijaya's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=vijayalaxmi777&theme=monokai" />
-</details>  
-</div>
+</p>
 <div align='center'> Happy Learning!🙇‍♀️ </div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
