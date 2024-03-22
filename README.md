@@ -1,6 +1,6 @@
 ###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 20px; width:20px" > Hello World!😁 My name is Vijaya and I am a data enthusiast!❤️
 
-## 🌏 Connect with me  
+### Connect with me  
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vijayalaxmi-wakode/" target="_blank">
